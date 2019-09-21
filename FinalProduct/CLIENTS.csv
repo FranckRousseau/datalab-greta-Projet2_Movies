@@ -1,0 +1,7 @@
+Cl_Nom, Cl_Pren, Cl_Sx, Cl_DDN, Cl_Tel, Cl_Em, Cl_Prf, Cl_Fav, Cl_EC, Cl_Mbr, Cl_Date
+'Moet', 'Jean', 'M', '1975/03/02', '06 23 00 00 11', 'moet.j@hotmail.fr', 'Comptable', 'Drame', 'Marie', '', '2019/05/23'
+'Stein', 'Marie', 'F', '1983/10/22', '06 66 00 00 22', 'steinm@hotmail.fr', 'Medicin', 'Romance', 'Marie', '', '2019/06/02'
+'Durand', 'Michel', 'M', '1972/09/17', '06 45 00 00 33', 'michel.durand@hotmail.fr', 'Infirmier', 'Horreur', 'Marie', '', '2019/01/15'
+'Ruelle', 'Zara', 'O', '2005/06/06', '06 71 00 00 44', 'zrue12@hotmail.fr', 'Etudiante', 'Comédie', 'Celibataire', '', '2019/05/23'
+
+
